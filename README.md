@@ -1,4 +1,4 @@
-# peliculas-app
+# MovieNebula
 
 ## Project setup
 ```
