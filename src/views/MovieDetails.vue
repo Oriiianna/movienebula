@@ -4,9 +4,10 @@
     class="detail-page d-flex justify-content-center align-items-center p-4"
   >
     <div
-      v-if="movie"
-      class="detail-container d-flex flex-column flex-lg-row shadow-lg rounded-4 overflow-hidden"
-    >
+  v-if="movie"
+  class="detail-container shadow-lg rounded-4 overflow-hidden mx-auto w-100 w-md-75 w-lg-100"
+>
+
       <div class="poster-wrapper flex-shrink-0 position-relative">
         <img
           v-if="movie.poster_path"
@@ -226,7 +227,6 @@ export default {
 
 .movie-poster {
   width: 100%;
-  height: 100%;
   object-fit: cover;
   border-radius: 1rem 0 0 1rem;
   box-shadow: 0 0 30px #5a189a;

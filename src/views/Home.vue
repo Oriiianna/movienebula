@@ -87,8 +87,8 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2rem;
   color: white;
+  padding: 2rem;
 }
 
 .title {

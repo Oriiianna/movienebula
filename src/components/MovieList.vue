@@ -6,7 +6,7 @@
 
     <div class="row justify-content-center">
       <div
-        class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-4"
+        class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4 mt-4"
         v-for="movie in movies"
         :key="movie.id"
       >
@@ -104,6 +104,7 @@ export default {
   display: block;
   object-fit: cover;
 }
+
 .movie-body {
   padding: 0.75rem 1rem;
   display: flex;

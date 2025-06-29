@@ -1,6 +1,6 @@
 <template>
   <div class="contact-page">
-    <section class="hero text-center text-light py-5">
+    <section class="hero text-center text-light py-4">
       <div class="container">
         <h2 class="display-3 fw-bold mb-3">Contáctanos</h2>
       </div>
@@ -67,25 +67,22 @@
                 <li class="mb-2">
                   <i class="fas fa-envelope me-2"></i>
                   <a href="mailto:contacto@cineexplorer.com" class="text-decoration-none text-light">
-                    contacto@cineexplorer.com
+                    contacto@movienebula.com
                   </a>
                 </li>
                 <li class="mb-2">
                   <i class="fab fa-twitter me-2"></i>
                   <a href="#" class="text-decoration-none text-light">
-                    @CineExplorer
+                    @MovieNebula
                   </a>
                 </li>
                 <li class="mb-2">
                   <i class="fab fa-instagram me-2"></i>
                   <a href="#" class="text-decoration-none text-light">
-                    cineexplorer
+                    MovieNebula
                   </a>
                 </li>
               </ul>
-              <p class="mt-4 small text-muted">
-                Te responderemos en un plazo de 24 a 48 horas.
-              </p>
             </div>
           </div>
         </div>

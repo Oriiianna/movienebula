@@ -16,7 +16,7 @@
             Todo en una experiencia visual atractiva y fácil de usar.
           </p>
           <p>
-            Utilizamos <strong>Vue.js</strong> y <strong>The Movie Database API</strong> para ofrecerte información actualizada y relevante sobre el mundo del cine.
+            Utilice <strong>Vue.js</strong> y <strong>The Movie Database API</strong> para ofrecerte información actualizada y relevante sobre el mundo del cine.
           </p>
         </div>
       </div>
@@ -55,10 +55,6 @@ export default {
 </script>
 
 <style scoped>
-.about-section {
-  background-color: #121212;
-}
-
 .about-image {
   transition: transform 0.3s ease;
 }
